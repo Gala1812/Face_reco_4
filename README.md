@@ -1,10 +1,12 @@
+![Image alt]([https://github.com/AI-School-F5-P2/Data_Scientist_1/blob/main/images/banner.jpeg](https://github.com/Gala1812/Face_reco_4/blob/main/facial-recognition.jpg))
+
 # Face_reco_4
 Face recognition project, team_4
 
 
 ## Description
 
-This script is designed for a facial recognition application that performs data augmentation, face recognition, and captures positive images (👍) and anchor images (⚓) for training.
+This script is designed for a facial recognition application that performs face recognition based on captured images for training and using Dlib, Facial_recognition and other libraries.
 
 ## Train_main.py
 
@@ -27,12 +29,13 @@ streamlit.py serves as the entry point for the user interface. It employs the St
 ## Prerequisites
 
 - Python 3.x
-- TensorFlow
 - OpenCV
+- Dlib
 - face_recognition
 - NumPy
 - Matplotlib
 - Streamlit
+- TensorFlow
 - python-dotenv
 
 ## Installation

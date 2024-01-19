@@ -1,4 +1,4 @@
-![Image alt]([https://github.com/AI-School-F5-P2/Data_Scientist_1/blob/main/images/banner.jpeg](https://github.com/Gala1812/Face_reco_4/blob/main/facial-recognition.jpg))
+![Image alt](https://github.com/Gala1812/Face_reco_4/blob/main/facial-recognition.jpg)
 
 # Face_reco_4
 Face recognition project, team_4
